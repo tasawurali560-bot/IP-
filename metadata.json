@@ -1,0 +1,6 @@
+{
+  "name": "i17 Pro Max Sim",
+  "description": "iPhone 17 Pro Max Virtual Simulator featuring a real CameraX Pro camera engine, 16GB Virtual RAM & 1TB Virtual Storage dashboards alongside actual Android hardware telemetry, media suite, file manager, and live web apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

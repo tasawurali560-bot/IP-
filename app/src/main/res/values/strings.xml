@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">i17 Pro Max Sim</string>
+    <string name="sim_device_title">iPhone 17 Pro Max Virtual Simulator</string>
+    <string name="sim_os_version">iOS 26.0 Virtual Shell</string>
+    <string name="virtual_ram_label">16 GB Virtual RAM</string>
+    <string name="virtual_storage_label">1 TB (1024 GB) Virtual Storage</string>
+    <string name="sim_disclaimer">Simulated specifications are for virtual simulator display only and do not alter physical Android hardware.</string>
+    <string name="camera_permission_rationale">Camera access is required to power the real CameraX Pro viewfinder, photo capture, and 4K/1080p video recording.</string>
+    <string name="audio_permission_rationale">Microphone access enables audio capture during Pro Video recording.</string>
+</resources>
